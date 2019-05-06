@@ -1,1 +1,1 @@
-# Python-Coding-Club
+# MGR coding club
